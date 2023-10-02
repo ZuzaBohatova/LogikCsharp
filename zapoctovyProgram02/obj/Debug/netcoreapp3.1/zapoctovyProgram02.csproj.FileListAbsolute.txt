@@ -1,0 +1,13 @@
+D:\Zuzka\MATFYZ\1.LS\Programovani2C#\ZapoctovyProgramLogic\zapoctovyProgram02\bin\Debug\netcoreapp3.1\zapoctovyProgram02.exe
+D:\Zuzka\MATFYZ\1.LS\Programovani2C#\ZapoctovyProgramLogic\zapoctovyProgram02\bin\Debug\netcoreapp3.1\zapoctovyProgram02.deps.json
+D:\Zuzka\MATFYZ\1.LS\Programovani2C#\ZapoctovyProgramLogic\zapoctovyProgram02\bin\Debug\netcoreapp3.1\zapoctovyProgram02.runtimeconfig.json
+D:\Zuzka\MATFYZ\1.LS\Programovani2C#\ZapoctovyProgramLogic\zapoctovyProgram02\bin\Debug\netcoreapp3.1\zapoctovyProgram02.runtimeconfig.dev.json
+D:\Zuzka\MATFYZ\1.LS\Programovani2C#\ZapoctovyProgramLogic\zapoctovyProgram02\bin\Debug\netcoreapp3.1\zapoctovyProgram02.dll
+D:\Zuzka\MATFYZ\1.LS\Programovani2C#\ZapoctovyProgramLogic\zapoctovyProgram02\bin\Debug\netcoreapp3.1\zapoctovyProgram02.pdb
+D:\Zuzka\MATFYZ\1.LS\Programovani2C#\ZapoctovyProgramLogic\zapoctovyProgram02\obj\Debug\netcoreapp3.1\zapoctovyProgram02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zuzka\MATFYZ\1.LS\Programovani2C#\ZapoctovyProgramLogic\zapoctovyProgram02\obj\Debug\netcoreapp3.1\zapoctovyProgram02.AssemblyInfoInputs.cache
+D:\Zuzka\MATFYZ\1.LS\Programovani2C#\ZapoctovyProgramLogic\zapoctovyProgram02\obj\Debug\netcoreapp3.1\zapoctovyProgram02.AssemblyInfo.cs
+D:\Zuzka\MATFYZ\1.LS\Programovani2C#\ZapoctovyProgramLogic\zapoctovyProgram02\obj\Debug\netcoreapp3.1\zapoctovyProgram02.csproj.CoreCompileInputs.cache
+D:\Zuzka\MATFYZ\1.LS\Programovani2C#\ZapoctovyProgramLogic\zapoctovyProgram02\obj\Debug\netcoreapp3.1\zapoctovyProgram02.dll
+D:\Zuzka\MATFYZ\1.LS\Programovani2C#\ZapoctovyProgramLogic\zapoctovyProgram02\obj\Debug\netcoreapp3.1\zapoctovyProgram02.pdb
+D:\Zuzka\MATFYZ\1.LS\Programovani2C#\ZapoctovyProgramLogic\zapoctovyProgram02\obj\Debug\netcoreapp3.1\zapoctovyProgram02.genruntimeconfig.cache
